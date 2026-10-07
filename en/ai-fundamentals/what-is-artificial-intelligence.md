@@ -12,11 +12,7 @@ feedback:
 
 Artificial intelligence (AI) is the field of building computer systems that perform tasks which normally need human intelligence. These tasks include understanding language, recognising images, making decisions and learning from experience.
 
-From git. Test
-
-Test
-
-![](assets/Images/Documentation/convergence.png){width="1254" height="1254" shadow="no" border="no" round="no"}
+Edited from main
 
 [d360]: # 'heading id="narrow-and-general-ai"'
 
