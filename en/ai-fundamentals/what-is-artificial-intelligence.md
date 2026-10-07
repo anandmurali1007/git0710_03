@@ -16,6 +16,8 @@ From git. Test
 
 Test
 
+![](assets/Images/Documentation/convergence.png){width="1254" height="1254" shadow="no" border="no" round="no"}
+
 [d360]: # 'heading id="narrow-and-general-ai"'
 
 ## Narrow and general AI
