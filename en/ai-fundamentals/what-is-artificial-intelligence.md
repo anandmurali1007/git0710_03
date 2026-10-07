@@ -14,11 +14,16 @@ Artificial intelligence (AI) is the field of building computer systems that perf
 
 From git. Test
 
+Test
+
 [d360]: # 'heading id="narrow-and-general-ai"'
 
 ## Narrow and general AI
 
 [d360]: # "/heading"
+
+Test
+
 [d360]: # 'table style="min-width: 120px;"'
 
 | Type       | What it means                                                            | Examples                                         |
