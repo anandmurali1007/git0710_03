@@ -1,8 +1,8 @@
 ---
-guid: bfe86279-fbb1-45de-b8b3-35ceb5ffeae7
-title: "Editor tests"
+guid: 42bcd32f-32dc-4f23-b41f-170e05e93134
+title: Editor tests
 seo:
-  title: "Editor tests"
+  title: Editor tests
 display:
   toc: true
 feedback:

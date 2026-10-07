@@ -1,5 +1,5 @@
 ---
-guid: abf95101-632f-4016-ad48-af0fe1e88d81
+guid: 5fc15151-1269-4880-aedb-a7fac11239f0
 title: AI in practice
 seo:
   title: AI in practice
